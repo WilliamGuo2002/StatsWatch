@@ -8,7 +8,7 @@
 
 [![Swift](https://img.shields.io/badge/Swift-6.2-F05138?logo=swift&logoColor=white)](https://swift.org)
 [![Platform](https://img.shields.io/badge/Platform-iOS%2018+-000000?logo=apple&logoColor=white)](https://apple.com)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)](LICENSE)
 
 [**中文介绍**](#中文介绍) · [Features](#features) · [Screenshots](#screenshots) · [Installation](#installation) · [Tech Stack](#tech-stack)
 
