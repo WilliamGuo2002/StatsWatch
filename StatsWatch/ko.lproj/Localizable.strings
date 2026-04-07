@@ -1,0 +1,209 @@
+/* ===== StatsWatch Localizable Strings — 한국어 ===== */
+
+/* General */
+"Search" = "검색";
+"Cancel" = "취소";
+"Done" = "완료";
+"Retry" = "재시도";
+"Clear" = "지우기";
+"All" = "전체";
+"Overall" = "전체";
+"VS" = "VS";
+"Mode" = "모드";
+"Compare" = "비교";
+"Show More" = "더 보기";
+"Show Less" = "접기";
+"Read More" = "자세히 보기";
+"History" = "기록";
+
+/* App Branding */
+"StatsWatch" = "StatsWatch";
+"Overwatch Stats Tracker" = "오버워치 전적 검색";
+"OW Tracker" = "OW 전적";
+
+/* Search View */
+"BattleTag or Name (e.g. Player#1234)" = "배틀태그 또는 이름 (예: Player#1234)";
+"Tip: Enter the full BattleTag (Name#1234) for direct lookup" = "팁: 배틀태그 전체 (이름#1234)를 입력하면 바로 검색됩니다";
+"Note: BattleTag is **case-sensitive**" = "참고: 배틀태그는 **대소문자를 구분**합니다";
+"Favorites" = "즐겨찾기";
+"Recent" = "최근 검색";
+"Public Profile" = "공개 프로필";
+"Private Profile" = "비공개 프로필";
+
+/* Quick Links */
+"Hero Meta" = "영웅 메타";
+"Encyclopedia" = "영웅 백과";
+"PvP Compare" = "플레이어 비교";
+"Maps" = "맵";
+"Game Modes" = "게임 모드";
+"Feedback & Tip" = "피드백 및 후원";
+
+/* Player Profile */
+"Loading profile..." = "프로필 로딩 중...";
+"Competitive Ranks" = "경쟁전 순위";
+"Competitive" = "경쟁전";
+"Quick Play" = "빠른 대전";
+"Hero Comparison" = "영웅 비교";
+"Full Career Stats" = "전체 전적";
+"Hero Meta Analysis" = "영웅 메타 분석";
+"Session Tracker" = "세션 추적";
+"Share Stats Card" = "전적 카드 공유";
+"Progress Tracking" = "성장 추적";
+"Hero Encyclopedia" = "영웅 백과";
+
+/* Roles */
+"Tank" = "탱커";
+"DPS" = "딜러";
+"Support" = "지원";
+"Open 6v6" = "공개 6v6";
+"Unranked" = "미배치";
+
+/* Stats Labels */
+"Win Rate" = "승률";
+"Pick Rate" = "픽률";
+"KDA" = "KDA";
+"Games" = "게임 수";
+"Sort by" = "정렬";
+"Play Time" = "플레이 시간";
+"Role Stats" = "역할 통계";
+"hrs" = "시간";
+"games" = "게임";
+"Elims/10min" = "처치/10분";
+"Deaths/10min" = "사망/10분";
+"Assists/10min" = "어시/10분";
+"Dmg/10min" = "피해/10분";
+"Heal/10min" = "치유/10분";
+"Total Elims" = "총 처치";
+"Total Deaths" = "총 사망";
+"Total Assists" = "총 어시스트";
+"Total Damage" = "총 피해량";
+"Total Healing" = "총 치유량";
+"WR" = "승률";
+
+/* Radar Chart */
+"Performance Profile" = "성능 프로필";
+"Elims" = "처치";
+"Assists" = "어시";
+"Survival" = "생존";
+"Damage" = "피해";
+"Healing" = "치유";
+"You" = "나";
+"Median" = "중앙값";
+
+/* Hero Tier List */
+"Hero Tier List" = "영웅 티어표";
+"Based on your stats" = "내 전적 기반";
+
+/* Play Style */
+"Play Style Profile" = "플레이 스타일";
+"Signature Hero" = "시그니처 영웅";
+
+/* Smart Coach */
+"Smart Coach" = "스마트 코치";
+"All Roles" = "전체 역할";
+"Queue Recommendation" = "큐 추천";
+"Play at least 3 games per role to get recommendations" = "역할별 최소 3게임을 해야 추천을 받을 수 있습니다";
+"BEST" = "최고";
+"SELECTED" = "선택됨";
+"Stats-Based Rank Reference" = "전적 기반 티어 참고";
+"Confidence" = "정확도";
+"Not enough stat data for estimation" = "추정을 위한 데이터가 부족합니다";
+"Hero Pool Analysis" = "영웅 풀 분석";
+"Gaps in hero pool:" = "영웅 풀 부족:";
+"Not enough data to analyze hero pool" = "영웅 풀 분석을 위한 데이터가 부족합니다";
+"Personalized Tips" = "맞춤형 팁";
+"Play more games to get personalized coaching tips" = "게임을 더 플레이하면 맞춤 코칭 팁을 받을 수 있습니다";
+
+/* Rank Names */
+"Bronze" = "브론즈";
+"Silver" = "실버";
+"Gold" = "골드";
+"Platinum" = "플래티넘";
+"Diamond" = "다이아몬드";
+"Master" = "마스터";
+"GM" = "그랜드마스터";
+
+/* Hero Encyclopedia */
+"Search heroes..." = "영웅 검색...";
+"Failed to load hero details" = "영웅 상세 정보 로딩 실패";
+"Hitpoints" = "체력";
+"Health" = "생명력";
+"Armor" = "방어력";
+"Shields" = "보호막";
+"Abilities" = "능력";
+"Backstory" = "배경 이야기";
+"Global Win Rate" = "글로벌 승률";
+"Global Pick Rate" = "글로벌 픽률";
+
+/* Share Card */
+"Share Card" = "카드 공유";
+"COMPETITIVE RANKS" = "경쟁전 순위";
+"TOP HEROES" = "주력 영웅";
+
+/* PvP Compare */
+"Player vs Player" = "플레이어 대 플레이어";
+"Player 1" = "플레이어 1";
+"Player 2" = "플레이어 2";
+"Role Breakdown" = "역할별 상세";
+"Please enter both BattleTags" = "두 배틀태그를 모두 입력해주세요";
+
+/* Session Tracker */
+"Start Session" = "세션 시작";
+"End Session" = "세션 종료";
+"Session Active" = "세션 진행 중";
+"No Active Session" = "활성 세션 없음";
+"Session Start" = "시작 시간";
+"Session Result" = "세션 결과";
+"Wins" = "승";
+"Losses" = "패";
+"Tap before you start playing. When you're done, come back and end the session to see your results." = "플레이 전에 탭하세요. 끝나면 돌아와서 세션을 종료하고 결과를 확인하세요.";
+"Go play some games! Come back when you're done." = "게임을 즐기세요! 끝나면 돌아오세요.";
+"Start a session before you play to track your progress." = "진행 상황을 추적하려면 플레이 전에 세션을 시작하세요.";
+"No games detected. The stats haven't changed since session start." = "게임이 감지되지 않았습니다. 세션 시작 이후 전적 변화가 없습니다.";
+
+/* Progress Tracking */
+"Not enough data yet" = "아직 데이터가 부족합니다";
+"Stats are saved each time you view this profile. Come back later to see your progress!" = "프로필을 볼 때마다 전적이 저장됩니다. 나중에 돌아와서 성장을 확인하세요!";
+"Progress Since First Record" = "첫 기록 이후 변화";
+
+/* Career Stats */
+"No career stats available" = "전적 데이터 없음";
+"Personal Bests" = "개인 최고";
+"Detailed Career Stats" = "상세 전적";
+"Average Per 10 Min" = "10분당 평균";
+"Eliminations" = "처치";
+"Deaths" = "사망";
+"Totals" = "총합";
+"vs Your Overall Average" = "전체 평균과 비교";
+
+/* Hero Detail */
+"Most Played Heroes" = "최다 플레이 영웅";
+"All Heroes" = "전체 영웅";
+"Time" = "시간";
+"1ST" = "1위";
+"2ND" = "2위";
+"3RD" = "3위";
+"Select two heroes to compare" = "비교할 영웅 2명을 선택하세요";
+"Radar Comparison" = "레이더 비교";
+
+/* Feedback & Support */
+"Feedback" = "피드백";
+"Contact Developer" = "개발자 연락";
+"Coming soon" = "준비 중";
+"Report a Bug" = "버그 신고";
+"Help us improve the app" = "앱 개선에 도움을 주세요";
+"Suggest a Feature" = "기능 제안";
+"We'd love to hear your ideas" = "여러분의 아이디어를 기다립니다";
+"Rate on App Store" = "App Store 평가";
+"Your review helps a lot!" = "리뷰가 큰 도움이 됩니다!";
+"Support the Developer" = "개발자 응원하기";
+"StatsWatch is a free, ad-free app made with love. If you enjoy it, consider buying me a coffee!" = "StatsWatch는 무료 광고 없는 앱입니다. 마음에 드시면 커피 한 잔 사주세요!";
+"Buy Me a Coffee" = "커피 한 잔 사주기";
+"Payment QR Code" = "결제 QR 코드";
+"Scan to tip via WeChat / Alipay" = "QR 코드를 스캔하여 후원하기";
+"Data provided by OverFast API" = "OverFast API 데이터 제공";
+"Made with ❤️ for the Overwatch community" = "오버워치 커뮤니티를 위해 ❤️으로 제작";
+
+/* PvP Compare placeholders */
+"Player 1 BattleTag (Name#1234)" = "플레이어1 배틀태그 (Name#1234)";
+"Player 2 BattleTag (Name#1234)" = "플레이어2 배틀태그 (Name#1234)";

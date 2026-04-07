@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct StatsWatchApp: App {
+    @AppStorage("app_language") private var appLanguage: String = ""
+
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environment(\.locale, appLanguage.isEmpty ? .current : Locale(identifier: appLanguage))
         }
     }
 }

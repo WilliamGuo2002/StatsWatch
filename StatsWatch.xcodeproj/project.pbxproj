@@ -6,7 +6,18 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		AAA0000B2F900AA10000000B /* StatsWatchWidgetExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = AAA000012F900AA100000001 /* StatsWatchWidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
+		AAA000082F900AA100000008 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CFE825EB2F804BC200818E01 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AAA000042F900AA100000004;
+			remoteInfo = StatsWatchWidgetExtension;
+		};
 		CFE826012F804BC500818E01 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = CFE825EB2F804BC200818E01 /* Project object */;
@@ -23,13 +34,46 @@
 		};
 /* End PBXContainerItemProxy section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		AAA000072F900AA100000007 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				AAA0000B2F900AA10000000B /* StatsWatchWidgetExtension.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
+		AAA000012F900AA100000001 /* StatsWatchWidgetExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = StatsWatchWidgetExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		CFE825F32F804BC200818E01 /* StatsWatch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StatsWatch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CFE826002F804BC500818E01 /* StatsWatchTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StatsWatchTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CFE8260A2F804BC500818E01 /* StatsWatchUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StatsWatchUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		AAA000202F900AA100000020 /* Exceptions for "StatsWatchWidget" folder in "StatsWatchWidgetExtension" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = AAA000042F900AA100000004 /* StatsWatchWidgetExtension */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		AAA000022F900AA100000002 /* StatsWatchWidget */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				AAA000202F900AA100000020 /* Exceptions for "StatsWatchWidget" folder in "StatsWatchWidgetExtension" target */,
+			);
+			path = StatsWatchWidget;
+			sourceTree = "<group>";
+		};
 		CFE825F52F804BC200818E01 /* StatsWatch */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = StatsWatch;
@@ -48,6 +92,13 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		AAA000032F900AA100000003 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		CFE825F02F804BC200818E01 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -76,6 +127,7 @@
 			isa = PBXGroup;
 			children = (
 				CFE825F52F804BC200818E01 /* StatsWatch */,
+				AAA000022F900AA100000002 /* StatsWatchWidget */,
 				CFE826032F804BC500818E01 /* StatsWatchTests */,
 				CFE8260D2F804BC500818E01 /* StatsWatchUITests */,
 				CFE825F42F804BC200818E01 /* Products */,
@@ -88,6 +140,7 @@
 				CFE825F32F804BC200818E01 /* StatsWatch.app */,
 				CFE826002F804BC500818E01 /* StatsWatchTests.xctest */,
 				CFE8260A2F804BC500818E01 /* StatsWatchUITests.xctest */,
+				AAA000012F900AA100000001 /* StatsWatchWidgetExtension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,6 +148,28 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		AAA000042F900AA100000004 /* StatsWatchWidgetExtension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AAA000102F900AA100000010 /* Build configuration list for PBXNativeTarget "StatsWatchWidgetExtension" */;
+			buildPhases = (
+				AAA000052F900AA100000005 /* Sources */,
+				AAA000032F900AA100000003 /* Frameworks */,
+				AAA000062F900AA100000006 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				AAA000022F900AA100000002 /* StatsWatchWidget */,
+			);
+			name = StatsWatchWidgetExtension;
+			packageProductDependencies = (
+			);
+			productName = StatsWatchWidgetExtension;
+			productReference = AAA000012F900AA100000001 /* StatsWatchWidgetExtension.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
 		CFE825F22F804BC200818E01 /* StatsWatch */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = CFE826142F804BC500818E01 /* Build configuration list for PBXNativeTarget "StatsWatch" */;
@@ -102,10 +177,12 @@
 				CFE825EF2F804BC200818E01 /* Sources */,
 				CFE825F02F804BC200818E01 /* Frameworks */,
 				CFE825F12F804BC200818E01 /* Resources */,
+				AAA000072F900AA100000007 /* Embed Foundation Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				AAA000092F900AA100000009 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
 				CFE825F52F804BC200818E01 /* StatsWatch */,
@@ -173,6 +250,9 @@
 				LastSwiftUpdateCheck = 2630;
 				LastUpgradeCheck = 2630;
 				TargetAttributes = {
+					AAA000042F900AA100000004 = {
+						CreatedOnToolsVersion = 26.3;
+					};
 					CFE825F22F804BC200818E01 = {
 						CreatedOnToolsVersion = 26.3;
 					};
@@ -192,6 +272,10 @@
 			knownRegions = (
 				en,
 				Base,
+				"zh-Hans",
+				ko,
+				ja,
+				es,
 			);
 			mainGroup = CFE825EA2F804BC200818E01;
 			minimizedProjectReferenceProxies = 1;
@@ -201,6 +285,7 @@
 			projectRoot = "";
 			targets = (
 				CFE825F22F804BC200818E01 /* StatsWatch */,
+				AAA000042F900AA100000004 /* StatsWatchWidgetExtension */,
 				CFE825FF2F804BC500818E01 /* StatsWatchTests */,
 				CFE826092F804BC500818E01 /* StatsWatchUITests */,
 			);
@@ -208,6 +293,13 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		AAA000062F900AA100000006 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		CFE825F12F804BC200818E01 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -232,6 +324,13 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		AAA000052F900AA100000005 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		CFE825EF2F804BC200818E01 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -256,6 +355,11 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
+		AAA000092F900AA100000009 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = AAA000042F900AA100000004 /* StatsWatchWidgetExtension */;
+			targetProxy = AAA000082F900AA100000008 /* PBXContainerItemProxy */;
+		};
 		CFE826022F804BC500818E01 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = CFE825F22F804BC200818E01 /* StatsWatch */;
@@ -269,6 +373,70 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
+		AAA0000C2F900AA10000000C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = UGLFKNLB5F;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = StatsWatchWidget/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = StatsWatchWidget;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = WilliamGuo.StatsWatch.StatsWatchWidget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		AAA0000D2F900AA10000000D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = UGLFKNLB5F;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = StatsWatchWidget/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = StatsWatchWidget;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = WilliamGuo.StatsWatch.StatsWatchWidget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
 		CFE826122F804BC500818E01 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -578,6 +746,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		AAA000102F900AA100000010 /* Build configuration list for PBXNativeTarget "StatsWatchWidgetExtension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AAA0000C2F900AA10000000C /* Debug */,
+				AAA0000D2F900AA10000000D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		CFE825EE2F804BC200818E01 /* Build configuration list for PBXProject "StatsWatch" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (

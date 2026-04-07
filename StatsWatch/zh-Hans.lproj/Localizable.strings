@@ -1,0 +1,209 @@
+/* ===== StatsWatch Localizable Strings — 简体中文 ===== */
+
+/* General */
+"Search" = "搜索";
+"Cancel" = "取消";
+"Done" = "完成";
+"Retry" = "重试";
+"Clear" = "清除";
+"All" = "全部";
+"Overall" = "总览";
+"VS" = "VS";
+"Mode" = "模式";
+"Compare" = "对比";
+"Show More" = "展开更多";
+"Show Less" = "收起";
+"Read More" = "查看更多";
+"History" = "历史";
+
+/* App Branding */
+"StatsWatch" = "StatsWatch";
+"Overwatch Stats Tracker" = "守望先锋数据追踪";
+"OW Tracker" = "OW 追踪";
+
+/* Search View */
+"BattleTag or Name (e.g. Player#1234)" = "战网昵称（如 Player#1234）";
+"Tip: Enter the full BattleTag (Name#1234) for direct lookup" = "提示：输入完整战网ID（名称#1234）可直接查询";
+"Note: BattleTag is **case-sensitive**" = "注意：战网ID **区分大小写**";
+"Favorites" = "收藏";
+"Recent" = "最近搜索";
+"Public Profile" = "公开主页";
+"Private Profile" = "私密主页";
+
+/* Quick Links */
+"Hero Meta" = "英雄 Meta";
+"Encyclopedia" = "英雄百科";
+"PvP Compare" = "玩家对比";
+"Maps" = "地图";
+"Game Modes" = "游戏模式";
+"Feedback & Tip" = "反馈与打赏";
+
+/* Player Profile */
+"Loading profile..." = "加载中...";
+"Competitive Ranks" = "竞技排名";
+"Competitive" = "竞技模式";
+"Quick Play" = "快速游戏";
+"Hero Comparison" = "英雄对比";
+"Full Career Stats" = "完整生涯数据";
+"Hero Meta Analysis" = "英雄 Meta 分析";
+"Session Tracker" = "对局追踪";
+"Share Stats Card" = "分享数据卡片";
+"Progress Tracking" = "进步追踪";
+"Hero Encyclopedia" = "英雄百科";
+
+/* Roles */
+"Tank" = "坦克";
+"DPS" = "输出";
+"Support" = "辅助";
+"Open 6v6" = "公开6v6";
+"Unranked" = "未定级";
+
+/* Stats Labels */
+"Win Rate" = "胜率";
+"Pick Rate" = "选取率";
+"KDA" = "KDA";
+"Games" = "场次";
+"Sort by" = "排序";
+"Play Time" = "游戏时长";
+"Role Stats" = "职业数据";
+"hrs" = "小时";
+"games" = "场";
+"Elims/10min" = "击杀/10分钟";
+"Deaths/10min" = "死亡/10分钟";
+"Assists/10min" = "助攻/10分钟";
+"Dmg/10min" = "伤害/10分钟";
+"Heal/10min" = "治疗/10分钟";
+"Total Elims" = "总击杀";
+"Total Deaths" = "总死亡";
+"Total Assists" = "总助攻";
+"Total Damage" = "总伤害";
+"Total Healing" = "总治疗";
+"WR" = "胜率";
+
+/* Radar Chart */
+"Performance Profile" = "表现雷达";
+"Elims" = "击杀";
+"Assists" = "助攻";
+"Survival" = "存活";
+"Damage" = "伤害";
+"Healing" = "治疗";
+"You" = "你";
+"Median" = "中位数";
+
+/* Hero Tier List */
+"Hero Tier List" = "英雄等级表";
+"Based on your stats" = "基于你的数据";
+
+/* Play Style */
+"Play Style Profile" = "游戏风格画像";
+"Signature Hero" = "招牌英雄";
+
+/* Smart Coach */
+"Smart Coach" = "智能教练";
+"All Roles" = "全部职业";
+"Queue Recommendation" = "排位推荐";
+"Play at least 3 games per role to get recommendations" = "每个职业至少打3场才能获得推荐";
+"BEST" = "最佳";
+"SELECTED" = "已选";
+"Stats-Based Rank Reference" = "数据段位参考";
+"Confidence" = "置信度";
+"Not enough stat data for estimation" = "数据不足，无法估算";
+"Hero Pool Analysis" = "英雄池分析";
+"Gaps in hero pool:" = "英雄池缺口:";
+"Not enough data to analyze hero pool" = "数据不足，无法分析英雄池";
+"Personalized Tips" = "个性化建议";
+"Play more games to get personalized coaching tips" = "多打几场比赛以获取个性化建议";
+
+/* Rank Names */
+"Bronze" = "青铜";
+"Silver" = "白银";
+"Gold" = "黄金";
+"Platinum" = "铂金";
+"Diamond" = "钻石";
+"Master" = "大师";
+"GM" = "宗师";
+
+/* Hero Encyclopedia */
+"Search heroes..." = "搜索英雄...";
+"Failed to load hero details" = "加载英雄详情失败";
+"Hitpoints" = "生命值";
+"Health" = "血量";
+"Armor" = "护甲";
+"Shields" = "护盾";
+"Abilities" = "技能";
+"Backstory" = "背景故事";
+"Global Win Rate" = "全球胜率";
+"Global Pick Rate" = "全球选取率";
+
+/* Share Card */
+"Share Card" = "分享卡片";
+"COMPETITIVE RANKS" = "竞技排名";
+"TOP HEROES" = "常用英雄";
+
+/* PvP Compare */
+"Player vs Player" = "玩家对比";
+"Player 1" = "玩家 1";
+"Player 2" = "玩家 2";
+"Role Breakdown" = "职业详情";
+"Please enter both BattleTags" = "请输入两个战网ID";
+
+/* Session Tracker */
+"Start Session" = "开始记录";
+"End Session" = "结束记录";
+"Session Active" = "记录进行中";
+"No Active Session" = "暂无记录";
+"Session Start" = "开始时间";
+"Session Result" = "对局结果";
+"Wins" = "胜";
+"Losses" = "负";
+"Tap before you start playing. When you're done, come back and end the session to see your results." = "开打前点击开始。打完后回来结束记录，查看你的战绩变化。";
+"Go play some games! Come back when you're done." = "去打几局吧！打完后回来查看结果。";
+"Start a session before you play to track your progress." = "开打前点击「开始记录」来追踪你的进步。";
+"No games detected. The stats haven't changed since session start." = "未检测到对局。自开始记录以来数据没有变化。";
+
+/* Progress Tracking */
+"Not enough data yet" = "数据还不够";
+"Stats are saved each time you view this profile. Come back later to see your progress!" = "每次查看资料时会自动保存数据快照。下次回来就能看到你的进步！";
+"Progress Since First Record" = "首次记录以来的变化";
+
+/* Career Stats */
+"No career stats available" = "暂无生涯数据";
+"Personal Bests" = "个人最佳";
+"Detailed Career Stats" = "详细生涯数据";
+"Average Per 10 Min" = "每10分钟平均";
+"Eliminations" = "击杀";
+"Deaths" = "死亡";
+"Totals" = "累计总计";
+"vs Your Overall Average" = "与你的总体平均对比";
+
+/* Hero Detail */
+"Most Played Heroes" = "最常使用英雄";
+"All Heroes" = "全部英雄";
+"Time" = "时长";
+"1ST" = "第1";
+"2ND" = "第2";
+"3RD" = "第3";
+"Select two heroes to compare" = "选择两个英雄进行对比";
+"Radar Comparison" = "雷达对比";
+
+/* Feedback & Support */
+"Feedback" = "反馈";
+"Contact Developer" = "联系开发者";
+"Coming soon" = "即将开放";
+"Report a Bug" = "报告 Bug";
+"Help us improve the app" = "帮助我们改进应用";
+"Suggest a Feature" = "功能建议";
+"We'd love to hear your ideas" = "我们期待你的想法";
+"Rate on App Store" = "App Store 评分";
+"Your review helps a lot!" = "你的评价对我们帮助很大！";
+"Support the Developer" = "支持开发者";
+"StatsWatch is a free, ad-free app made with love. If you enjoy it, consider buying me a coffee!" = "StatsWatch 是一款免费无广告的应用。如果你喜欢，可以请我喝杯咖啡！";
+"Buy Me a Coffee" = "请我喝咖啡";
+"Payment QR Code" = "付款二维码";
+"Scan to tip via WeChat / Alipay" = "扫码通过微信 / 支付宝打赏";
+"Data provided by OverFast API" = "数据由 OverFast API 提供";
+"Made with ❤️ for the Overwatch community" = "为守望先锋社区用心打造";
+
+/* PvP Compare placeholders */
+"Player 1 BattleTag (Name#1234)" = "玩家1 战网ID (Name#1234)";
+"Player 2 BattleTag (Name#1234)" = "玩家2 战网ID (Name#1234)";

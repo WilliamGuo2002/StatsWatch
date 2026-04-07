@@ -1,21 +1,10 @@
-//
-//  ContentView.swift
-//  StatsWatch
-//
-//  Created by William Kuo on 2026-04-03.
-//
-
 import SwiftUI
 
 struct ContentView: View {
+    @State private var viewModel = PlayerViewModel()
+
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
+        SearchView(viewModel: viewModel)
     }
 }
 

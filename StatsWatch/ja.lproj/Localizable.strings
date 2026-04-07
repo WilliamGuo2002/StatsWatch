@@ -1,0 +1,209 @@
+/* ===== StatsWatch Localizable Strings — 日本語 ===== */
+
+/* General */
+"Search" = "検索";
+"Cancel" = "キャンセル";
+"Done" = "完了";
+"Retry" = "再試行";
+"Clear" = "クリア";
+"All" = "すべて";
+"Overall" = "全体";
+"VS" = "VS";
+"Mode" = "モード";
+"Compare" = "比較";
+"Show More" = "もっと見る";
+"Show Less" = "閉じる";
+"Read More" = "詳しく見る";
+"History" = "履歴";
+
+/* App Branding */
+"StatsWatch" = "StatsWatch";
+"Overwatch Stats Tracker" = "オーバーウォッチ 戦績トラッカー";
+"OW Tracker" = "OW トラッカー";
+
+/* Search View */
+"BattleTag or Name (e.g. Player#1234)" = "バトルタグまたは名前（例: Player#1234）";
+"Tip: Enter the full BattleTag (Name#1234) for direct lookup" = "ヒント：フルバトルタグ（名前#1234）で直接検索できます";
+"Note: BattleTag is **case-sensitive**" = "注意：バトルタグは**大文字・小文字を区別**します";
+"Favorites" = "お気に入り";
+"Recent" = "最近の検索";
+"Public Profile" = "公開プロフィール";
+"Private Profile" = "非公開プロフィール";
+
+/* Quick Links */
+"Hero Meta" = "ヒーローメタ";
+"Encyclopedia" = "ヒーロー図鑑";
+"PvP Compare" = "プレイヤー比較";
+"Maps" = "マップ";
+"Game Modes" = "ゲームモード";
+"Feedback & Tip" = "フィードバック・寄付";
+
+/* Player Profile */
+"Loading profile..." = "プロフィール読み込み中...";
+"Competitive Ranks" = "ライバル・プレイ ランク";
+"Competitive" = "ライバル・プレイ";
+"Quick Play" = "クイック・プレイ";
+"Hero Comparison" = "ヒーロー比較";
+"Full Career Stats" = "キャリア全戦績";
+"Hero Meta Analysis" = "ヒーローメタ分析";
+"Session Tracker" = "セッション追跡";
+"Share Stats Card" = "戦績カード共有";
+"Progress Tracking" = "成長記録";
+"Hero Encyclopedia" = "ヒーロー図鑑";
+
+/* Roles */
+"Tank" = "タンク";
+"DPS" = "ダメージ";
+"Support" = "サポート";
+"Open 6v6" = "オープン6v6";
+"Unranked" = "未配置";
+
+/* Stats Labels */
+"Win Rate" = "勝率";
+"Pick Rate" = "ピック率";
+"KDA" = "KDA";
+"Games" = "試合数";
+"Sort by" = "並び替え";
+"Play Time" = "プレイ時間";
+"Role Stats" = "ロール別戦績";
+"hrs" = "時間";
+"games" = "試合";
+"Elims/10min" = "キル/10分";
+"Deaths/10min" = "デス/10分";
+"Assists/10min" = "アシスト/10分";
+"Dmg/10min" = "ダメージ/10分";
+"Heal/10min" = "回復/10分";
+"Total Elims" = "総キル数";
+"Total Deaths" = "総デス数";
+"Total Assists" = "総アシスト数";
+"Total Damage" = "総ダメージ量";
+"Total Healing" = "総回復量";
+"WR" = "勝率";
+
+/* Radar Chart */
+"Performance Profile" = "パフォーマンス";
+"Elims" = "キル";
+"Assists" = "アシスト";
+"Survival" = "生存";
+"Damage" = "ダメージ";
+"Healing" = "回復";
+"You" = "あなた";
+"Median" = "中央値";
+
+/* Hero Tier List */
+"Hero Tier List" = "ヒーローティアリスト";
+"Based on your stats" = "あなたの戦績に基づく";
+
+/* Play Style */
+"Play Style Profile" = "プレイスタイル";
+"Signature Hero" = "メインヒーロー";
+
+/* Smart Coach */
+"Smart Coach" = "スマートコーチ";
+"All Roles" = "全ロール";
+"Queue Recommendation" = "キューおすすめ";
+"Play at least 3 games per role to get recommendations" = "おすすめを受ける��はロールごとに3試合以上必要です";
+"BEST" = "ベスト";
+"SELECTED" = "選択中";
+"Stats-Based Rank Reference" = "戦績ランク参考";
+"Confidence" = "信頼度";
+"Not enough stat data for estimation" = "推定に必要なデータが不足しています";
+"Hero Pool Analysis" = "ヒーロープール分析";
+"Gaps in hero pool:" = "ヒーロープールの不足:";
+"Not enough data to analyze hero pool" = "ヒー��ープール分析に必要なデータが不足";
+"Personalized Tips" = "パーソナルアドバイス";
+"Play more games to get personalized coaching tips" = "より多くの試合をプレイしてアドバイスを受けましょう";
+
+/* Rank Names */
+"Bronze" = "ブロンズ";
+"Silver" = "シルバー";
+"Gold" = "ゴールド";
+"Platinum" = "プラチナ";
+"Diamond" = "ダイヤモンド";
+"Master" = "マスター";
+"GM" = "グランドマスター";
+
+/* Hero Encyclopedia */
+"Search heroes..." = "ヒーロー検索...";
+"Failed to load hero details" = "ヒーロー詳細の読み込みに失敗";
+"Hitpoints" = "体力";
+"Health" = "ライフ";
+"Armor" = "アーマー";
+"Shields" = "シールド";
+"Abilities" = "アビリティ";
+"Backstory" = "バックストーリー";
+"Global Win Rate" = "グローバル勝率";
+"Global Pick Rate" = "グローバルピック率";
+
+/* Share Card */
+"Share Card" = "カード共有";
+"COMPETITIVE RANKS" = "ライバル・プレイ ランク";
+"TOP HEROES" = "よく使うヒーロー";
+
+/* PvP Compare */
+"Player vs Player" = "プレイヤー対決";
+"Player 1" = "プレイヤー1";
+"Player 2" = "プレイヤー2";
+"Role Breakdown" = "ロール別詳細";
+"Please enter both BattleTags" = "2つのバトルタグを入力してください";
+
+/* Session Tracker */
+"Start Session" = "セッション開始";
+"End Session" = "セッション終了";
+"Session Active" = "セッション進行中";
+"No Active Session" = "アクティブなセッションなし";
+"Session Start" = "開始時刻";
+"Session Result" = "セッション結果";
+"Wins" = "勝ち";
+"Losses" = "負け";
+"Tap before you start playing. When you're done, come back and end the session to see your results." = "プレイ前にタップ。終わったら戻ってセッションを終了し結果を確認しましょう。";
+"Go play some games! Come back when you're done." = "試合をプレイしましょう！終わったら戻ってきてください。";
+"Start a session before you play to track your progress." = "進捗を追跡するにはプレイ前にセッションを開始してください。";
+"No games detected. The stats haven't changed since session start." = "試合が検出されませんでした。セッション開始以降、戦績に変化がありません。";
+
+/* Progress Tracking */
+"Not enough data yet" = "まだデータが不十分です";
+"Stats are saved each time you view this profile. Come back later to see your progress!" = "プロフィールを見るたびに戦績が保存されます。後で戻って成長を確認しましょう！";
+"Progress Since First Record" = "初回記録からの変化";
+
+/* Career Stats */
+"No career stats available" = "キャリア戦績データなし";
+"Personal Bests" = "自己ベスト";
+"Detailed Career Stats" = "詳細キャリア戦績";
+"Average Per 10 Min" = "10分あたり平均";
+"Eliminations" = "キル";
+"Deaths" = "デス";
+"Totals" = "累計";
+"vs Your Overall Average" = "全体平均との比較";
+
+/* Hero Detail */
+"Most Played Heroes" = "最もプレイしたヒーロー";
+"All Heroes" = "全ヒーロー";
+"Time" = "時間";
+"1ST" = "1位";
+"2ND" = "2位";
+"3RD" = "3位";
+"Select two heroes to compare" = "比較するヒーローを2体選んでください";
+"Radar Comparison" = "レーダー比較";
+
+/* Feedback & Support */
+"Feedback" = "フィードバック";
+"Contact Developer" = "開発者に連絡";
+"Coming soon" = "準備中";
+"Report a Bug" = "バグ報告";
+"Help us improve the app" = "アプリの改善にご協力ください";
+"Suggest a Feature" = "機能を提案";
+"We'd love to hear your ideas" = "皆さんのアイデアをお待ちしています";
+"Rate on App Store" = "App Storeで評価";
+"Your review helps a lot!" = "レビューは大きな助けになります！";
+"Support the Developer" = "開発者をサポート";
+"StatsWatch is a free, ad-free app made with love. If you enjoy it, consider buying me a coffee!" = "StatsWatchは無料・広告なしのアプリです。気に入っていただけたらコーヒーを一杯おごってください！";
+"Buy Me a Coffee" = "コーヒーをおごる";
+"Payment QR Code" = "支払いQRコード";
+"Scan to tip via WeChat / Alipay" = "QRコードをスキャンして寄付";
+"Data provided by OverFast API" = "データ提供: OverFast API";
+"Made with ❤️ for the Overwatch community" = "オーバーウォッチコミュニティのために❤️を込めて";
+
+/* PvP Compare placeholders */
+"Player 1 BattleTag (Name#1234)" = "プレイヤー1 バトルタグ (Name#1234)";
+"Player 2 BattleTag (Name#1234)" = "プレイヤー2 バトルタグ (Name#1234)";

@@ -1,0 +1,209 @@
+/* ===== StatsWatch Localizable Strings — Español ===== */
+
+/* General */
+"Search" = "Buscar";
+"Cancel" = "Cancelar";
+"Done" = "Listo";
+"Retry" = "Reintentar";
+"Clear" = "Borrar";
+"All" = "Todos";
+"Overall" = "General";
+"VS" = "VS";
+"Mode" = "Modo";
+"Compare" = "Comparar";
+"Show More" = "Ver más";
+"Show Less" = "Ver menos";
+"Read More" = "Leer más";
+"History" = "Historial";
+
+/* App Branding */
+"StatsWatch" = "StatsWatch";
+"Overwatch Stats Tracker" = "Seguimiento de Estadísticas de Overwatch";
+"OW Tracker" = "OW Stats";
+
+/* Search View */
+"BattleTag or Name (e.g. Player#1234)" = "BattleTag o nombre (ej: Player#1234)";
+"Tip: Enter the full BattleTag (Name#1234) for direct lookup" = "Consejo: Ingresa el BattleTag completo (Nombre#1234) para búsqueda directa";
+"Note: BattleTag is **case-sensitive**" = "Nota: BattleTag **distingue mayúsculas y minúsculas**";
+"Favorites" = "Favoritos";
+"Recent" = "Recientes";
+"Public Profile" = "Perfil Público";
+"Private Profile" = "Perfil Privado";
+
+/* Quick Links */
+"Hero Meta" = "Meta de Héroes";
+"Encyclopedia" = "Enciclopedia";
+"PvP Compare" = "Comparar PvP";
+"Maps" = "Mapas";
+"Game Modes" = "Modos de Juego";
+"Feedback & Tip" = "Comentarios y Donar";
+
+/* Player Profile */
+"Loading profile..." = "Cargando perfil...";
+"Competitive Ranks" = "Rangos Competitivos";
+"Competitive" = "Competitivo";
+"Quick Play" = "Partida Rápida";
+"Hero Comparison" = "Comparar Héroes";
+"Full Career Stats" = "Estadísticas Completas";
+"Hero Meta Analysis" = "Análisis de Meta";
+"Session Tracker" = "Seguimiento de Sesión";
+"Share Stats Card" = "Compartir Tarjeta";
+"Progress Tracking" = "Seguimiento de Progreso";
+"Hero Encyclopedia" = "Enciclopedia de Héroes";
+
+/* Roles */
+"Tank" = "Tanque";
+"DPS" = "DPS";
+"Support" = "Apoyo";
+"Open 6v6" = "Abierto 6v6";
+"Unranked" = "Sin rango";
+
+/* Stats Labels */
+"Win Rate" = "% Victorias";
+"Pick Rate" = "% Elección";
+"KDA" = "KDA";
+"Games" = "Partidas";
+"Sort by" = "Ordenar por";
+"Play Time" = "Tiempo de juego";
+"Role Stats" = "Estadísticas por Rol";
+"hrs" = "hrs";
+"games" = "partidas";
+"Elims/10min" = "Elims/10min";
+"Deaths/10min" = "Muertes/10min";
+"Assists/10min" = "Asist/10min";
+"Dmg/10min" = "Daño/10min";
+"Heal/10min" = "Curac/10min";
+"Total Elims" = "Eliminaciones Totales";
+"Total Deaths" = "Muertes Totales";
+"Total Assists" = "Asistencias Totales";
+"Total Damage" = "Daño Total";
+"Total Healing" = "Curación Total";
+"WR" = "% V";
+
+/* Radar Chart */
+"Performance Profile" = "Perfil de Rendimiento";
+"Elims" = "Elims";
+"Assists" = "Asist";
+"Survival" = "Supervivencia";
+"Damage" = "Daño";
+"Healing" = "Curación";
+"You" = "Tú";
+"Median" = "Media";
+
+/* Hero Tier List */
+"Hero Tier List" = "Lista de Tiers";
+"Based on your stats" = "Basado en tus estadísticas";
+
+/* Play Style */
+"Play Style Profile" = "Estilo de Juego";
+"Signature Hero" = "Héroe Principal";
+
+/* Smart Coach */
+"Smart Coach" = "Coach Inteligente";
+"All Roles" = "Todos los Roles";
+"Queue Recommendation" = "Recomendación de Cola";
+"Play at least 3 games per role to get recommendations" = "Juega al menos 3 partidas por rol para obtener recomendaciones";
+"BEST" = "MEJOR";
+"SELECTED" = "SELECCIONADO";
+"Stats-Based Rank Reference" = "Referencia de Rango por Stats";
+"Confidence" = "Confianza";
+"Not enough stat data for estimation" = "Datos insuficientes para la estimación";
+"Hero Pool Analysis" = "Análisis del Pool de Héroes";
+"Gaps in hero pool:" = "Carencias en pool de héroes:";
+"Not enough data to analyze hero pool" = "Datos insuficientes para analizar el pool";
+"Personalized Tips" = "Consejos Personalizados";
+"Play more games to get personalized coaching tips" = "Juega más partidas para obtener consejos personalizados";
+
+/* Rank Names */
+"Bronze" = "Bronce";
+"Silver" = "Plata";
+"Gold" = "Oro";
+"Platinum" = "Platino";
+"Diamond" = "Diamante";
+"Master" = "Maestro";
+"GM" = "Gran Maestro";
+
+/* Hero Encyclopedia */
+"Search heroes..." = "Buscar héroes...";
+"Failed to load hero details" = "Error al cargar detalles del héroe";
+"Hitpoints" = "Puntos de vida";
+"Health" = "Salud";
+"Armor" = "Armadura";
+"Shields" = "Escudos";
+"Abilities" = "Habilidades";
+"Backstory" = "Trasfondo";
+"Global Win Rate" = "% Victorias Global";
+"Global Pick Rate" = "% Elección Global";
+
+/* Share Card */
+"Share Card" = "Compartir Tarjeta";
+"COMPETITIVE RANKS" = "RANGOS COMPETITIVOS";
+"TOP HEROES" = "HÉROES PRINCIPALES";
+
+/* PvP Compare */
+"Player vs Player" = "Jugador vs Jugador";
+"Player 1" = "Jugador 1";
+"Player 2" = "Jugador 2";
+"Role Breakdown" = "Desglose por Rol";
+"Please enter both BattleTags" = "Ingresa ambos BattleTags";
+
+/* Session Tracker */
+"Start Session" = "Iniciar Sesión";
+"End Session" = "Finalizar Sesión";
+"Session Active" = "Sesión Activa";
+"No Active Session" = "Sin Sesión Activa";
+"Session Start" = "Inicio de Sesión";
+"Session Result" = "Resultado de Sesión";
+"Wins" = "Victorias";
+"Losses" = "Derrotas";
+"Tap before you start playing. When you're done, come back and end the session to see your results." = "Toca antes de jugar. Cuando termines, vuelve y finaliza la sesión para ver los resultados.";
+"Go play some games! Come back when you're done." = "¡Ve a jugar! Vuelve cuando termines.";
+"Start a session before you play to track your progress." = "Inicia una sesión antes de jugar para seguir tu progreso.";
+"No games detected. The stats haven't changed since session start." = "No se detectaron partidas. Las estadísticas no cambiaron desde el inicio.";
+
+/* Progress Tracking */
+"Not enough data yet" = "Aún no hay suficientes datos";
+"Stats are saved each time you view this profile. Come back later to see your progress!" = "Las estadísticas se guardan cada vez que ves este perfil. ¡Vuelve después para ver tu progreso!";
+"Progress Since First Record" = "Progreso Desde el Primer Registro";
+
+/* Career Stats */
+"No career stats available" = "Sin estadísticas de carrera";
+"Personal Bests" = "Récords Personales";
+"Detailed Career Stats" = "Estadísticas Detalladas";
+"Average Per 10 Min" = "Promedio por 10 Min";
+"Eliminations" = "Eliminaciones";
+"Deaths" = "Muertes";
+"Totals" = "Totales";
+"vs Your Overall Average" = "vs Tu Promedio General";
+
+/* Hero Detail */
+"Most Played Heroes" = "Héroes Más Jugados";
+"All Heroes" = "Todos los Héroes";
+"Time" = "Tiempo";
+"1ST" = "1°";
+"2ND" = "2°";
+"3RD" = "3°";
+"Select two heroes to compare" = "Selecciona dos héroes para comparar";
+"Radar Comparison" = "Comparación Radar";
+
+/* Feedback & Support */
+"Feedback" = "Comentarios";
+"Contact Developer" = "Contactar al Desarrollador";
+"Coming soon" = "Próximamente";
+"Report a Bug" = "Reportar un Error";
+"Help us improve the app" = "Ayúdanos a mejorar la app";
+"Suggest a Feature" = "Sugerir una Función";
+"We'd love to hear your ideas" = "Nos encantaría escuchar tus ideas";
+"Rate on App Store" = "Calificar en App Store";
+"Your review helps a lot!" = "¡Tu reseña nos ayuda mucho!";
+"Support the Developer" = "Apoyar al Desarrollador";
+"StatsWatch is a free, ad-free app made with love. If you enjoy it, consider buying me a coffee!" = "StatsWatch es una app gratuita y sin anuncios. Si te gusta, ¡invítame un café!";
+"Buy Me a Coffee" = "Invítame un Café";
+"Payment QR Code" = "Código QR de Pago";
+"Scan to tip via WeChat / Alipay" = "Escanea para donar vía WeChat / Alipay";
+"Data provided by OverFast API" = "Datos proporcionados por OverFast API";
+"Made with ❤️ for the Overwatch community" = "Hecho con ❤️ para la comunidad de Overwatch";
+
+/* PvP Compare placeholders */
+"Player 1 BattleTag (Name#1234)" = "Jugador 1 BattleTag (Name#1234)";
+"Player 2 BattleTag (Name#1234)" = "Jugador 2 BattleTag (Name#1234)";
