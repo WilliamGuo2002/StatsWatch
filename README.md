@@ -61,6 +61,7 @@
 ---
 
 ## Installation
+- Will be avalable on AppStore soon
 
 ### Requirements
 - iOS 18.0+
