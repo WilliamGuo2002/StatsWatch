@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="StatsWatch/Assets.xcassets/AppIcon.appiconset/AppIcon.png" width="80" height="80" style="border-radius: 16px;" /> StatsWatch
+<img src="Screenshots/banner.png" width="100%" />
 
 ### Your Ultimate Overwatch Companion on iOS
 
