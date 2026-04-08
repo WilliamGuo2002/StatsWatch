@@ -48,7 +48,15 @@
 
 ## Screenshots
 
-> Coming soon — screenshots will be added before App Store launch.
+| Full Profile | Know Your Style | Hero Tier List | Smart Coach |
+|:---:|:---:|:---:|:---:|
+| ![](Screenshots/image1.jpg) | ![](Screenshots/image2.jpg) | ![](Screenshots/image3.jpg) | ![](Screenshots/image4.jpg) |
+| Ranks, win rates & role stats | AI-powered playstyle analysis | Your personal S/A/B/C/D ranking | Rank estimation & personalized tips |
+
+| Share Card | Hero Deep Dive | Career Stats | Hero vs Hero |
+|:---:|:---:|:---:|:---:|
+| ![](Screenshots/image5.jpg) | ![](Screenshots/image6.jpg) | ![](Screenshots/image7.jpg) | ![](Screenshots/image8.jpg) |
+| Beautiful stats card for sharing | Radar chart & per-10-min averages | Win rates & KDA for every hero | Compare your heroes side by side |
 
 ---
 
